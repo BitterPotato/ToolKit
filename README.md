@@ -6,3 +6,5 @@
 
 And here's why you might want to use it:
 * You produced and uploaded a picture to `Qiniu Cloud` by by using `qrsbox` for your new blog written by [Markdown](https://zh.wikipedia.org/zh-cn/Markdown), and just wanted to get the link of the picture quickly.
+
+[see more](https://github.com/BitterPotato/ToolKit/issues/1)
