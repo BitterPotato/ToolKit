@@ -32,3 +32,14 @@ to
 1. drop your `xxx.md` file to `ToJianshu.bat`
 2. you will get a `xxx_js.md` in your current directory
 
+
+
+
+# picCompress
+
+As for images that only explains something, it's of great waste to occupy net disk space. Here comes compressing, using [tinypng](https://tinypng.com)!
+
+## Getting Started
+
+1. drop your folder or image to `picCompress.bat`
+2. you will get compressed version of images named `%origin_name%_c`, and the original ones will be removed
